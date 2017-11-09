@@ -8,4 +8,4 @@ react-native run-ios
 
 ```
 <br /> <br />
-use the app and buy some albums uinlike myself. 
+use the app and buy some albums unlike myself.
